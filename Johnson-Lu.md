@@ -1,3 +1,6 @@
 *this is a test*
- 
--[] favorite color
+
+-[] Favorite color
+-[] City
+-[] Height
+-[] Weight
